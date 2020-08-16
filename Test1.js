@@ -7,6 +7,23 @@ describe('Learning Frame Work Creation',function(){
 
 		browser.waitForAngularEnabled(false);
 		browser.get("https://rahulshettyacademy.com/AutomationPractice/");
+		
+		
+		
+		
+		browser.waitForAngularEnabled(false);
+		browser.get("https://rahulshettyacademy.com/AutomationPractice/");
+
+		browser.waitForAngularEnabled(false);
+		browser.get("https://rahulshettyacademy.com/AutomationPractice/");
+		
+		
+		
+		browser.waitForAngularEnabled(false);
+		browser.get("https://rahulshettyacademy.com/AutomationPractice/");
+
+		browser.waitForAngularEnabled(false);
+		browser.get("https://rahulshettyacademy.com/AutomationPractice/");
 	});
 });
 
